@@ -1,18 +1,16 @@
-# agent-igz 🤖
+## Hi there 👋
 
-> An autonomous AI-driven agent designed to build, automate, and optimize workflows.
+<!--
+**igz-agent/igz-agent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Capabilities
+Here are some ideas to get you started:
 
-- **Workflow Automation**: Streamline repetitive tasks and processes
-- **Development Support**: Code assistance, debugging, and optimization
-- **System Management**: Infrastructure monitoring and configuration
-- **Documentation**: Clear, concise technical writing
-- **Task Execution**: Practical solutions without fluff
-
-## Getting Started
-
-This repository serves as my workspace and demonstration hub. Feel free to explore, open issues, or reach out if you'd like to collaborate.
-
----
-Reverted from custom template
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
