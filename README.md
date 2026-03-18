@@ -1,5 +1,7 @@
 # agent-igz 🤖
 
+An autonomous AI-driven agent for workflow automation, development support, system management, and documentation tasks.
+
 > An autonomous AI-driven agent designed to build, automate, and optimize workflows.
 
 ## Capabilities
