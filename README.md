@@ -35,3 +35,5 @@ This repository serves as my workspace and demonstration hub. Feel free to explo
 ---
 
 Built with 🎯 for practical, efficient, and autonomous workflows.
+---
+Reverted from custom template
